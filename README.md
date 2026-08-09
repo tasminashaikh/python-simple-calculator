@@ -1,2 +1,2 @@
 # python-simple-calculator
-Simple calculator project built with Python.
+1st Project — Simple calculator project built with Python.
